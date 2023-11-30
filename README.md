@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando como estagiaria na SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO, TURISMO, TECNOLOGIA E INOVAÇÃO – SDTI
+- 🔭 Atualmente estou atuando como estagiaria na SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO, TURISMO, TECNOLOGIA E INOVAÇÃO – SDTI
 - 🌱 Estou estudando Php, Laravel, Alpine.js e Docker
 - 😄 Pronome: Ela/Dela
 
