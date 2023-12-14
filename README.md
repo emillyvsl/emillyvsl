@@ -1,9 +1,9 @@
-<p align="center"><a href="https://github.com/gabrieuz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Olá%2C+me+chamo+Emilly+Silva." alt="Typing SVG" /></a>
+<p align="center"><a href="https://github.com/gabrieuz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Olá%2C+me+chamo+Emilly+Silva!" alt="Typing SVG" /></a>
 
 
 
 - 🔭 Atualmente estou atuando como estagiaria na SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO, TURISMO, TECNOLOGIA E INOVAÇÃO – SDTI
-- 🌱 Estou estudando Php, Laravel, Alpine.js e Docker
+- 🌱 Estou estudando: Php, Laravel, Alpine.js e Docker
 - 😄 Pronome: Ela/Dela
 
     <div style="display: inline_block"><br>
